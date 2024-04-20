@@ -22,7 +22,8 @@ git commit -m "first commit"
 
 Suba seus arquivos utilizando a URL gerada no passo 2 no seguinte comando:
 git remote add origin URL-GERADA-PELO-PASSO-2-AQUI
-![br-modelo-usuario 2024-04-08 041040](https://github.com/andersontecnicoprogramador/site-pegadinha-do-mallandro/assets/68762932/4faa7db0-ef16-4288-814c-10c3ff8744be)
+![LiDhHSW](https://github.com/andersontecnicoprogramador/site-pegadinha-do-mallandro/assets/68762932/f5546d0e-1ad2-4b42-85c0-b0fd1fcc688c)
+
 
 Autorize o upload com seu login e senha:
 git push -u origin master
